@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//
 @main
 struct FrutusApp: App {
     @AppStorage("isOnboarding") var isOnboarding : Bool = true
